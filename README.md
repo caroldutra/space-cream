@@ -11,9 +11,15 @@
 This is a website made for a fictional ice cream shop called Space Cream. The goal was to make the website responsive using Mobile first, CSS Flexbox and CSS Grid concepts. You can access the result here: <a href="https://caroldutra.github.io/space-cream/">Space Cream</a>
 
 ## 🖊️ Design
-<img src="https://img.shields.io/badge/Figma-8B0000?style=for-the-badge&logo=figma&logoColor=white">
-<a href="https://www.figma.com/file/xmfq4jkmk6S4kQNRCSVP4U/Stage-03---Mobile-First-(Copy)?node-id=0%3A1">Mobile Version</a> <br>
-<a href="https://www.figma.com/file/dHAEStQXnfwQYUiLScjOiE/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)">Desktop Version</a>
+You can check the designs for Mobile and Desktop versions here:
+<br>
+<br>
+<a href="https://www.figma.com/file/xmfq4jkmk6S4kQNRCSVP4U/Stage-03---Mobile-First-(Copy)?node-id=0%3A1">
+  <img src="https://img.shields.io/badge/Figma: Mobile Version-8B0000?style=for-the-badge&logo=figma&logoColor=white">
+</a> <br>
+<a href="https://www.figma.com/file/dHAEStQXnfwQYUiLScjOiE/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)">
+  <img src="https://img.shields.io/badge/Figma: Desktop Version-8B0000?style=for-the-badge&logo=figma&logoColor=white">
+</a>
 
 ## 🛠 Techs
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
