@@ -11,12 +11,13 @@
 This is a website made for a fictional ice cream shop called Space Cream. The goal was to make the website responsive using Mobile first, CSS Flexbox and CSS Grid concepts. You can access the result here: <a href="https://caroldutra.github.io/space-cream/">Space Cream</a>
 
 ## 🖊️ Design
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-8B0000?style=for-the-badge&logo=figma&logoColor=white">
 <a href="https://www.figma.com/file/xmfq4jkmk6S4kQNRCSVP4U/Stage-03---Mobile-First-(Copy)?node-id=0%3A1">Mobile Version</a> <br>
 <a href="https://www.figma.com/file/dHAEStQXnfwQYUiLScjOiE/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)">Desktop Version</a>
 
-## &#128296; Languages
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+## 🛠 Techs
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 ## 📖 Applied Concepts
 <ul>
@@ -31,7 +32,8 @@ This is a website made for a fictional ice cream shop called Space Cream. The go
   <li>Animations and tansitions</li>
 </ul>
 
-## 👩🏾 My LinkedIn Profile 
+## 👩🏾 My LinkedIn Profile     
 [![Linkedin Badge](https://img.shields.io/badge/-CarolinaDutra-darkviolet?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinadutra/)](https://www.linkedin.com/in/carolinadutra/)
+
 
 <p align="center">Made with 💜 by Carol Dutra👋🏾</p>
