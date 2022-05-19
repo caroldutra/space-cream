@@ -8,7 +8,7 @@
 ![Space Cream - Google Chrome 2022-05-17 16-02-26](https://user-images.githubusercontent.com/77646305/168890922-c70a7e47-2d49-4146-beda-2af22559e130.gif)
 
 ## &#128195; Description
-This is a website made for a fictional ice cream shop called Space Cream. The goal was to make the website responsive using Mobile first, CSS Flexbox and CSS Grid concepts. You can access the result here: <a href="https://caroldutra.github.io/space-cream/">Space Cream</a>
+This is a webpage made for a fictional ice cream shop called Space Cream. The goal was to make the page responsive using Mobile first, CSS Flexbox and CSS Grid concepts. You can access the result here: <a href="https://caroldutra.github.io/space-cream/">Space Cream</a>
 
 ## 🖊️ Design
 You can check the designs for Mobile and Desktop versions here:
